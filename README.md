@@ -57,3 +57,5 @@ For any questions or feedback, please contact:
 **Email:** [bione.4477@gmail.com](mailto:bione.4477@gmail.com)  
 **GitHub:** [BiOneIsDaBest](https://github.com/BiOneIsDaBest)
 
+@created by BiOneIsDaBest // mã nguồn mở ae dùng để cre cho tui là đc nhé!!!
+"This is an open-source project. Feel free to use it, just make sure to credit me!"
