@@ -2,6 +2,9 @@
 
 This is a Python-based GUI application using Tkinter to track and display the current coordinates of the mouse pointer within the application window. It also includes an application icon and a logo image.
 
+To use the application without running the script manually, navigate to the dist directory and download the .exe file.
+``` Để sử dụng ứng dụng mà không cần chạy tập lệnh theo cách thủ công, hãy điều hướng đến thư mục dist và tải xuống tệp .exe. ```
+
 ## Features
 
 1. **Mouse Coordinate Tracking**  
