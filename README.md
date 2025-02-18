@@ -58,4 +58,4 @@ For any questions or feedback, please contact:
 **GitHub:** [BiOneIsDaBest](https://github.com/BiOneIsDaBest)
 
 @created by BiOneIsDaBest // mã nguồn mở ae dùng để cre cho tui là đc nhé!!!
-"This is an open-source project. Feel free to use it, just make sure to credit me!"
+- "This is an open-source project. Feel free to use it, just make sure to credit me!"
