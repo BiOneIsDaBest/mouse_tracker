@@ -4,7 +4,7 @@ This is a Python-based GUI application using Tkinter to track and display the cu
 
 To use the application without running the script manually, navigate to the dist directory and download the .exe file.
 
-``` Để sử dụng ứng dụng mà không cần chạy tập lệnh theo cách thủ công, hãy điều hướng đến thư mục dist và tải xuống tệp .exe. ```
+``` Để sử dụng ứng dụng mà không cần chạy tập lệnh theo cách thủ công, hãy điều hướng đến thư mục dist và tải xuống tệp .exe. (:\dist\mouse_tracker.exe )```
 
 ## Features
 
